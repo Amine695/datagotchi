@@ -3,25 +3,25 @@
 ## What if your lifestyle made it possible to predict your political allegiance?
 
 
-#### Web Application whose aim is to predict the intentions of votes based on lifestyle using ML models
+### Web Application whose aim is to predict the intentions of votes based on lifestyle using ML models
 
 Here is the [application](https://datagotchi.com/) you can try ! 
 
-#### Introduction
+### Introduction
 Datagotchi is a fun and educational application that engages the user in design
 interactive version of an avatar representing its lifestyle habits, and which then aims to predict attitudes and
 social behaviors. Based on individual characteristics linked to lifestyle habits, the most
 recent release of Datagotchi aimed to predict users' voting intention for Quebec general elections of October 3, 2022.
 
 
-#### Goal of this project
+### Goal of this project
 In this academic project, we aim to study the potential of Datagotchi data to make electoral predictions at the constituency level. Among other things, we will have to determine the types of population that will have been able to correctly predict the results of past elections.
 The identification of these populations could subsequently make it possible to make electoral predictions.
 
 More precisely, a type of population that generally makes good predictions, that is to say that the
 results that they announce during a survey prove to be true, could have an opinion (or a weight) of greater importance than populations predicting outcomes that turn out to be wrong.
 
-#### Data used
+### Data used
 In particular, we will have access to the data collected by the Datagotchi application, namely:
 -  Identification data of the individuals surveyed (gender, age group, country/language of origin,
 origin, sexual orientation, city, district, etc.)
@@ -34,7 +34,7 @@ sports, ...)
 This dataset has thirty variables and around 70,000 observations
 
 
-#### Methods
+### Methods
 
 In order to address this issue, we would start by exploring, analyzing and cleaning the data provided by the Datagotchi application. This first phase of analysis could allow us to fully understand this data, to identify initial trends and to determine certain influential characteristics in terms of electoral predictions.
 
@@ -52,6 +52,6 @@ of variables in order to identify the association presenting the best results.
 
 
 ### Authors
-Amine Berbagui
-David-Alexandre Duclos
+Amine Berbagui <br>
+David-Alexandre Duclos <br>
 Yannis Canton
